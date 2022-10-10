@@ -20,6 +20,16 @@
 `export LANG="zh_CN.UTF-8"
 export LC_ALL="zh_CN.UTF-8"`
 
+4.  `git add .`
+    
+    `git commit -m""`
+
+    `git status`
+
+    `git log`
+
+    
+    
 
 
 
