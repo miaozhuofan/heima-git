@@ -28,6 +28,7 @@ export LC_ALL="zh_CN.UTF-8"`
 
     `git log`
 
+5.  `git push` 
     
     
 
